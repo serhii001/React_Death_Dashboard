@@ -1,0 +1,17 @@
+{
+  "HOME": "/",
+  "LOGIN": "/login",
+  "SIGNUP": "/signup",
+  "DASHBOARD": "/dashboard",
+  "USER": "/user",
+  "FORBIDDEN": "/forbidden",
+  "FORBIDDEN2": "/forbidden2",
+  "DATA": "/data",
+  "LEADS": "/leads",
+  "NOTIFICATIONS": "/notifications",
+  "COMMUNICATION": "/client-communication",
+  "APPOINTMENTS": "/appointments",
+  "EMAIL": "/email",
+  "CHAT": "/employee-chat",
+  "SETTINGS": "/settings"
+}

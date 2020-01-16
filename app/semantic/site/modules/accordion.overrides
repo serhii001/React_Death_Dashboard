@@ -1,0 +1,7 @@
+/*******************************
+        User Overrides
+*******************************/
+
+.ui.accordion .active.content, .ui.accordion .accordion .tablerow .active.content {
+  display: table-cell;
+}

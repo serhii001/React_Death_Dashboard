@@ -1,0 +1,32 @@
+.ui.tabular.menu .item {
+  font-size: 16px !important;
+  font-family: 'Medium Lato';
+  color: #707070 !important;
+  text-transform: uppercase;
+}
+
+.ui.tabular.menu {
+  margin-top: 15px;
+  margin-bottom: -2px;
+}
+.ui.tabular.menu .active.item {
+  font-size: 16px !important;
+  font-family: 'Medium Lato';
+  color: #00a7fa !important;
+  text-transform: uppercase;
+}
+
+.ui.styled.accordion .title,
+.ui.styled.accordion .active .title {
+  background: 0 0;
+  color: #ff7f00 !important;
+  font-weight: none !important;
+  font: 20px Medium Lato;
+}
+
+.ui.styled.accordion {
+  box-shadow: 3px 2px 4px #00000055 !important;
+  border: 1px solid #959494;
+  border-radius: 20px !important;
+  margin-top: 20px;
+}

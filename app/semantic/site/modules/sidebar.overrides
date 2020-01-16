@@ -1,0 +1,53 @@
+/*******************************
+         Site Overrides
+*******************************/
+.ui.sidebar {
+  color: #959494 !important;
+  background: #fff !important;
+}
+.ui.sidebar.menu .item {
+  color: #959494 !important;
+  flex-direction: row !important;
+  justify-content: flex-start !important;
+  text-align: left !important;
+  font-size: 24px;
+  height: 90px;
+  line-height: 90px;
+  text-align: left;
+  font-family: Lato, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0;
+  color: #959494;
+}
+.ui.labeled.icon.menu .item > .icon:not(.dropdown) {
+  display: inline-block !important;
+  margin-right: 30px !important;
+  font-size: 35px !important;
+}
+.ui.inverted.menu .active.item, .ui.inverted.menu .active.item {
+  background: #EBEBEB !important;
+  color: #5FA1FC !important;
+  border-right: 13px solid #5FA1FC !important;
+}
+.ui.inverted.menu .active.item:hover, .ui.inverted.menu .active.item .icon {
+  color: #5FA1FC !important;
+}
+.ui.wide.left.sidebar {
+  width: 391px !important;
+}
+.ui.visible.wide.left.sidebar ~ .pusher {
+}
+.ui.inverted.very.thin.left.sidebar {
+  background: #5FA1FC !important;
+  color: #fff !important;
+
+}
+.ui.inverted.very.thin.left.sidebar.menu .icon, .ui.inverted.very.thin.left.sidebar.menu .item, .ui.inverted.very.thin.left.sidebar.menu .item .icon{
+  color: #FFF !important;
+}
+.ui.inverted.very.thin.left.sidebar.menu .active.item, .ui.inverted.very.thin.left.sidebar.menu .active.item .icon {
+  background: #EBEBEB !important;
+  color: #5FA1FC !important;
+}
